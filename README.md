@@ -9,3 +9,11 @@ many of the techniques here, check it out.
 ## Cloning
 
 Don't forget `git submodule update --init --recursive` after cloning this repository.
+
+## Usage
+
+Hold `A` + `UP` or `DOWN` Arrow = Increase or Decrease Alignment Weight
+Hold `S` + `UP` or `DOWN` Arrow = Increase or Decrease Separation Weight
+Hold `C` + `UP` or `DOWN` Arrow = Increase or Decrease Cohesion Weight
+`ESC` to Quit
+`R` to Reset Flock

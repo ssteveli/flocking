@@ -289,7 +289,7 @@ public:
 
         Clear(olc::BLACK);
         DrawString(ScreenWidth() - 400, 20, "Alignment: " + std::to_string(aliW), olc::WHITE, 2.0f);
-        DrawString(ScreenWidth() - 400, 50, "Seperation: " + std::to_string(sepW), olc::WHITE, 2.0f);
+        DrawString(ScreenWidth() - 400, 50, "Separation: " + std::to_string(sepW), olc::WHITE, 2.0f);
         DrawString(ScreenWidth() - 400, 80, "Cohesion: " + std::to_string(cohW), olc::WHITE, 2.0f);
 
         for (auto &p : particles)
