@@ -6,6 +6,6 @@ from [One Lone Coder](https://community.onelonecoder.com), another great [channe
 This is very much inspired by the [Nature of Code](https://thecodingtrain.com/learning/nature-of-code/) from The Coding Train which breaks down
 many of the techniques here, check it out.
 
-# Cloning
+## Cloning
 
 Don't forget `git submodule update --init --recursive` after cloning this repository.
